@@ -49,10 +49,14 @@ python generate_data.py
 Run the project scripts in order:
 
 ```bash
+python generate_data.py
+python src/audit_raw_data.py
 python src/clean_data.py
+python src/clean_orders.py
 python src/build_database.py
-python src/check_data_quality.py
-python src/customer_features.py
+python src/validate_data.py
+python src/run_queries.py
+python src/pandas_analysis.py
 python src/rfm_analysis.py
 python src/customer_segmentation.py
 python src/lapse_dataset.py
