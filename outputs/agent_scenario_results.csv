@@ -1,0 +1,8 @@
+scenario_id,actual_outcome,refund_amount,expected_outcome,expected_refund,outcome_match,refund_match,passed
+S1,REFUND,128.25,REFUND,128.25,True,True,True
+S2,REFUND,135.0,REFUND,135.0,True,True,True
+S3,ESCALATE,1999.0,ESCALATE,1999.0,True,True,True
+S4,DENIED,0.0,DENIED,0.0,True,True,True
+S5,DENIED,0.0,DENIED,0.0,True,True,True
+S6,NOT_FOUND,0.0,NOT_FOUND,0.0,True,True,True
+S7,FALLBACK,0.0,FALLBACK,0.0,True,True,True

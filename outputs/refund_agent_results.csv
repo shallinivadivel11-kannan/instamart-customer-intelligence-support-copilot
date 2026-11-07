@@ -1,0 +1,11 @@
+order_id,decision,refund_amount,reason
+ORD-110093,NO_REFUND,0.0,Delivery was completed within 45 minutes.
+ORD-111396,NO_REFUND,0.0,Delivery was completed within 45 minutes.
+ORD-105921,NO_REFUND,0.0,Delivery was completed within 45 minutes.
+ORD-108115,NO_REFUND,0.0,Delivery was completed within 45 minutes.
+ORD-111469,AUTO_APPROVED,45.0,Completed order delivered after 45 minutes.
+ORD-107027,NO_REFUND,0.0,Delivery was completed within 45 minutes.
+ORD-103459,NO_REFUND,0.0,Delivery was completed within 45 minutes.
+ORD-100900,NO_REFUND,0.0,Delivery was completed within 45 minutes.
+ORD-110668,NO_REFUND,0.0,Delivery was completed within 45 minutes.
+ORD-111877,NO_REFUND,0.0,Delivery was completed within 45 minutes.
